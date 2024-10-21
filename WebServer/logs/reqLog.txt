@@ -1,0 +1,9 @@
+20241019	18:57:01	3f6532bc-56fe-4bf7-a01b-4e0e6634c107	/new-page.html	GET
+20241019	18:57:01	659e30db-a9a8-4da9-8f0e-ca6c014a2372	/css/style.css	GET
+20241019	18:57:01	53cd7f90-d7bb-46bc-a2fd-32900e130d39	/img/img1.jpg	GET
+20241019	18:58:13	e480d0ef-9eb4-4be1-a00f-ababea263016	/new-page.html	GET
+20241019	18:58:46	e946b435-ecf9-4d14-be20-0fd24bdd6ad2	/new-page.html	GET
+20241019	18:58:46	e495c1a5-572a-4a08-bf52-0965f561ac97	/css/style.css	GET
+20241019	18:58:46	4ff6b085-b5e3-4a2f-840d-98e29b72b642	/img/img1.jpg	GET
+20241019	18:59:05	757ef1dd-1b12-41eb-be88-f577e9922d48	/data/data.txt	GET
+20241019	18:59:09	276f1662-7a5f-42e6-ad71-39b5701c3c26	/data/data.json	GET
